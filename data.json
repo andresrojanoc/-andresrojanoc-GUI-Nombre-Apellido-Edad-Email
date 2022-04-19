@@ -1,1 +1,56 @@
-{"Homero": {"Nombre": "Homero", "Apellido": "Simpson", "Edad": "34", "Email": "homero@simps.com"}, "Marge": {"Nombre": "Marge", "Apellido": "Bouvier", "Edad": "34", "Email": "marge@simps.com"}, "Bart": {"Nombre": "Bart", "Apellido": "Simpson", "Edad": "10", "Email": "bart@simps.com"}, "Lisa": {"Nombre": "Lisa", "Apellido": "Simpson", "Edad": "8", "Email": "lisa@simps.com"}, "Maggie": {"Nombre": "Maggie", "Apellido": "Simpson", "Edad": "1", "Email": "maggie@simps.com"}, "Moe": {"Nombre": "Moe", "Apellido": "Szyslak", "Edad": "62", "Email": "moe@simps.com"}, "Edna": {"Nombre": "Edna", "Apellido": "Krabappel", "Edad": "40", "Email": "edna@simps.com"}, "Ned": {"Nombre": "Ned", "Apellido": "Flanders", "Edad": "60", "Email": "ned@simps.com"}, "Carl": {"Nombre": "Carl", "Apellido": "Carlson", "Edad": "38", "Email": "carl@simps.com"}}
+{
+  "Homero": {
+    "Nombre": "Homero",
+    "Apellido": "Simpson",
+    "Edad": "34",
+    "Email": "homero@simps.com"
+  },
+  "Marge": {
+    "Nombre": "Marge",
+    "Apellido": "Bouvier",
+    "Edad": "34",
+    "Email": "marge@simps.com"
+  },
+  "Bart": {
+    "Nombre": "Bart",
+    "Apellido": "Simpson",
+    "Edad": "10",
+    "Email": "bart@simps.com"
+  },
+  "Lisa": {
+    "Nombre": "Lisa",
+    "Apellido": "Simpson",
+    "Edad": "8",
+    "Email": "lisa@simps.com"
+  },
+  "Maggie": {
+    "Nombre": "Maggie",
+    "Apellido": "Simpson",
+    "Edad": "1",
+    "Email": "maggie@simps.com"
+  },
+  "Moe": {
+    "Nombre": "Moe",
+    "Apellido": "Szyslak",
+    "Edad": "62",
+    "Email": "moe@simps.com"
+  },
+  "Edna": {
+    "Nombre": "Edna",
+    "Apellido": "Krabappel",
+    "Edad": "40",
+    "Email": "edna@simps.com"
+  },
+  "Ned": {
+    "Nombre": "Ned",
+    "Apellido": "Flanders",
+    "Edad": "60",
+    "Email": "ned@simps.com"
+  },
+  "Carl": {
+    "Nombre": "Carl",
+    "Apellido": "Carlson",
+    "Edad": "38",
+    "Email": "carl@simps.com"
+  }
+}
